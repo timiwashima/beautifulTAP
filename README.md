@@ -8,6 +8,7 @@ The output should be more human readable than the raw JSON format.
 
 # Static Reports
 _Please refer to the screenshot for which report I am calling Static Reports_
+
 Turn this:
 
 ![Screenshot 2023-07-03 102437](https://github.com/timiwashima/beautifulTAP/assets/52045865/dd9d048c-98b6-45ba-bbb9-5a8cd5473903)
