@@ -64,7 +64,7 @@ for keys in data:
         
 confirmSave=input("Would you like to save to a file (y/n)?").lower()
 if confirmSave=='y' or 'yes':
-    filename='TAPReport.txt'
+    filename='TAPStaticReport.txt'
     with open(filename, 'w') as file:
         for keys in data:
             if keys=='id':
