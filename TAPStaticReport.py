@@ -62,7 +62,7 @@ for keys in data:
     else:
         print(keys.title() + ": " + str(data[keys]))
         
-confirmSave=input("Would you like to save to a file (y/n)?").lower()
+confirmSave=input("\nWould you like to save to a file (y/n)?").lower()
 if confirmSave=='y' or 'yes':
     filename='TAPStaticReport.txt'
     with open(filename, 'w') as file:
